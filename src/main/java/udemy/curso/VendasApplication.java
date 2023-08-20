@@ -34,9 +34,9 @@ public class VendasApplication {
       System.out.println("Buscando Clientes");
       clienteRepository.buscarPorNome("Cli").forEach(System.out::println);
 
-//      System.out.println("Deletando Clientes");
-//      clienteRepository.obterTodos().forEach(clienteRepository::deletar);
-//      todosClientes = clienteRepository.obterTodos();
+      System.out.println("Deletando Clientes");
+      clienteRepository.obterTodos().forEach(clienteRepository::deletar);
+      todosClientes = clienteRepository.obterTodos();
 
       if (todosClientes.isEmpty()) {
         System.out.println("Nenhum Cliente Encontrado");
