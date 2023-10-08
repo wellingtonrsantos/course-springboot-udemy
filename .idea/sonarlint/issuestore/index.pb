@@ -1,7 +1,19 @@
 
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 r
 Bsrc/main/java/udemy/curso/domain/repository/ProdutoRepository.java,9/3/936fa9c5d74abd27c05e1676127a0e124e97847f
 u
 Esrc/main/java/udemy/curso/domain/repository/ItemPedidoRepository.java,e/7/e77ec753cc33193e41fca19c714034f17669599a
+g
+7src/main/java/udemy/curso/domain/entity/ItemPedido.java,4/0/40ac040314bd557f1337609fabd792b54f29840f
+d
+4src/main/java/udemy/curso/domain/entity/Produto.java,8/b/8bf9941e3a6083e54ddf21302a279b69986a3881
+c
+3src/main/java/udemy/curso/domain/entity/Pedido.java,9/7/974d16c5dd5230fbc360a474b489cabba1ec3272
+q
+Asrc/main/java/udemy/curso/domain/repository/PedidoRepository.java,7/f/7f0f71b9335017fb603995f2bfdb24afef8d4986
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+r
+Bsrc/main/java/udemy/curso/domain/repository/ClienteRepository.java,1/e/1e9f14c48c0a6417dc2bd008e7b98568eef1c326
+`
+0src/main/java/udemy/curso/VendasApplication.java,9/f/9f78a30834ea9fd1fa2a836c93540b1cc36d21be
